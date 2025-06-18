@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitaage17&label=Profile%20views&color=0e75b6&style=flat" alt="rohitaage17" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitaage17" alt="rohitaage17" /></a> </p>
-
-- **🎓 B.Tech in Instrumentation Engineering | Government College of Engineering, Jalgaon**
+-  **🎓 B.Tech in Instrumentation Engineering | Government College of Engineering, Jalgaon**
 
 - ⚙ Skills: **SQL (MySQL, Snowflake) | Power BI / DAX | Python (Pandas, NumPy) | Advanced Excel | Data Visualization & Reporting | Machine Learning | Natural Language Processing**
 
-- **💼 Former Data Analyst at Accenture — worked on data cleaning, reporting, and building dashboards for business decision-making.**
+-  **💼 Former Data Analyst at Accenture — worked on data cleaning, reporting, and building dashboards for business decision-making.**
 
--  **🚀 I’m open to work — actively seeking opportunities in Data Analytics.**
+- 🚀 I’m open to work — actively seeking opportunities in Data Analytics. **🚀 I’m open to work — actively seeking opportunities in Data Analytics.**
 
 - 📫 Reach Me: **rohit.aage2506@gmail.com**
 
